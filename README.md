@@ -1,4 +1,4 @@
-This repository is a structured golang project that is used to generate a new backend/API service application by using the golang gin framework.
+This repository is a golang structured folder that is used to generate a new backend/API service application by using the golang gin framework and use the dependencies injection (https://github.com/goioc/di) light-weight Spring-like library for Go.
 # Table of contents
 1. [Project Requirment](#project-requirment)
 2. [Project Structure](#project-structure)
