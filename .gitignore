@@ -1,0 +1,12 @@
+.idea
+public
+*.txt
+*.log
+*.json
+.envbackup
+.envbackups
+godepgraph.png
+_project-repository/
+_result-scan-files/
+_project-configuration-file/
+awx/
